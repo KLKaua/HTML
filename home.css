@@ -1,0 +1,16 @@
+*{
+    margin-top: 50px;
+    justify-items: center;
+    color: rgb(0, 0, 0);
+    
+}
+
+h1 {
+  font-size: 25pt;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2cm;
+  margin-bottom: 1cm;
+  text-transform: uppercase;
+}
+

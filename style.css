@@ -1,0 +1,54 @@
+*{
+    margin-top: 50px;
+    justify-items: center;
+    background-color: black;
+    color: white;
+    
+}
+
+/* Fonte base ABNT comum */
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt; /* texto padrão */
+  line-height: 1.5;
+  margin: 2.5cm 3cm 2cm 3cm; /* margens padrão ABNT */
+  background-color: #000;
+}
+
+/* Título principal (Ex: Título do trabalho) */
+h1 {
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2cm;
+  margin-bottom: 1cm;
+  text-transform: uppercase;
+}
+
+/* Subtítulo (Ex: capítulos) */
+h2 {
+  font-size: 12pt;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 2cm;
+  margin-bottom: 0.5cm;
+  text-transform: uppercase;
+}
+
+/* Subtítulo secundário (Ex: seções) */
+h3 {
+  font-size: 12pt;
+  font-weight: normal;
+  text-align: left;
+  margin-top: 1.5cm;
+  margin-bottom: 0.5cm;
+  text-transform: capitalize;
+}
+
+/* Parágrafo descrição ou corpo de texto */
+p {
+  font-size: 12pt;
+  text-align: justify;
+  text-indent: 1.25cm; /* Recuo da primeira linha */
+  margin-bottom: 1cm;
+}
